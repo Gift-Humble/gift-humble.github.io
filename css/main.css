@@ -1290,7 +1290,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f7467f;
+  background: #de4bf2;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2844,15 +2844,4 @@ ul.breadcrumb li + li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
-}
-.sidebar {
-  background: url("https://s2.ax1x.com/2020/02/20/3ZLwj0.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-.sidebar p,
-.sidebar span,
-.sidebar a {
-  color: #ad5389;
 }
